@@ -20,6 +20,7 @@ using namespace Wt::Render;
 #define NOMINMAX
 #define WIN32_LEAN_AND_MEAN
 
+#include <boost/foreach.hpp>
 #include <boost/algorithm/string.hpp>
 #include <boost/bind.hpp>
 #include <boost/config/warning_disable.hpp>
